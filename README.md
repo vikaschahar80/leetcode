@@ -1,1 +1,3 @@
-# SoC week 1
+# SoC 
+Week 1
+Week 2
