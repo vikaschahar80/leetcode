@@ -1,1 +1,1 @@
-# leetcode
+# SoC week 1
